@@ -22,7 +22,7 @@ body{
 
 .banner{
     width: 100%;
-    background-image: url(./image-assets/PM-Holiday-Image1.jpg);
+    background-image: url("./image-assets/PM-Holiday-Image1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
